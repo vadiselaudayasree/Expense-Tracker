@@ -1,5 +1,7 @@
 💸 Expense Tracker Project
+
 📌 Project Overview
+
 The Expense Tracker is a simple and intuitive web application built using HTML, CSS, and JavaScript. It allows users to manage their finances by tracking their income and expenses. Users can add transactions, view their balance, income, and expenses, and remove transactions when needed. The application provides real-time updates and ensures a seamless user experience.
 
 🎯 Features
