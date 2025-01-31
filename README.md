@@ -26,6 +26,8 @@ The Expense Tracker is a simple and intuitive web application built using HTML, 
 HTML: For structuring the application.
 CSS: For styling and layout of the app.
 JavaScript: For dynamic functionality, calculations, and transaction management.
+
+
 🚀 How It Works
 Adding Transactions:
 
