@@ -6,15 +6,21 @@ The Expense Tracker is a simple and intuitive web application built using HTML, 
 
 🎯 Features
 
+
 ✅ Add transactions with a description and amount (positive for income, negative for expenses).
+
 
 ✅ View total balance, income, and expenses dynamically.
 
+
 ✅ Remove individual transactions from the list.
+
 
 ✅ Automatically updates calculations for balance, income, and expenses.
 
+
 ✅ Clean and responsive design for enhanced user experience.
+
 
 🛠 Technologies Used
 HTML: For structuring the application.
