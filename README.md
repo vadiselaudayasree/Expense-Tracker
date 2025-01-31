@@ -29,15 +29,21 @@ JavaScript: For dynamic functionality, calculations, and transaction management.
 
 
 🚀 How It Works
+
+
 Adding Transactions:
 
 Enter a description and amount in the input fields.
 Click the "Add Transaction" button to add the transaction to the list.
 Positive amounts are treated as income, and negative amounts as expenses.
+
+
 Calculating Totals:
 
 The app calculates the total balance by subtracting expenses from income.
 Displays separate totals for income and expenses.
+
+
 Removing Transactions:
 
 Each transaction has a delete button to remove it from the list.
